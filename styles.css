@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+}
+
+.container-1 {
+    background-color: #2d2d47;
+    color: white;
+}
+
+.signup-1 {
+    background-color: lightblue;
+    color: white;
+}
+
+.container-3 {
+    background-color: #eeeeee;
+}
+
+.container-4 {
+    background-color: #00bbee;
+}
+
+.signup-2 {
+    background-color: #00bbee;
+    color: white;
+}
+
+.footer {
+    background-color: #2d2d47;
+    color: white;
+}
