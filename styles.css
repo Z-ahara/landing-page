@@ -1,11 +1,32 @@
 body {
     text-align: center;
+    display: flex;
+    flex-direction: column;
 }
 
 .container-1 {
-    background-color: #2d2d47;
+    background-color: #1f2937;
     color: white;
 }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    margin: -4px 44px 44px 44px;
+}
+
+.left, .right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
 
 .signup-1 {
     background-color: lightblue;
