@@ -29,25 +29,9 @@ a {
 }
 
 /* second container css */
-.hero-content {
-    display: flex;
-    align-items: center;
-    gap: 50px;
-}
-
-.content-header, .content, .signup-1 {
-    display: flex;
-    align-items: center;
-    gap: 16px;
-    padding: 8px;
-}
-
 .image {
-    display: flex;
-    justify-content: space-between;
-    padding: 8px;
-    background-color: #6e6b6b;
-    gap: 16px;
+    background-color: #4d4d4d;
+ 
 }
 
 .signup-1 {
@@ -55,10 +39,12 @@ a {
     color: white;
 }
 
+/* third container css */
 .container-3 {
     background-color: #eeeeee;
 }
 
+/* fourth container css */
 .container-4 {
     background-color: #00bbee;
 }
@@ -68,6 +54,7 @@ a {
     color: white;
 }
 
+/* footer */
 .footer {
     background-color: #2d2d47;
     color: white;
