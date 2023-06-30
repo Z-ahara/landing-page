@@ -4,6 +4,7 @@ body {
     flex-direction: column;
 }
 
+/* first container csss */
 .container-1 {
     background-color: #1f2937;
     color: white;
@@ -27,6 +28,27 @@ a {
     color: #ffffff;
 }
 
+/* second container css */
+.hero-content {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+.content-header, .content, .signup-1 {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 8px;
+}
+
+.image {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    background-color: #6e6b6b;
+    gap: 16px;
+}
 
 .signup-1 {
     background-color: lightblue;
